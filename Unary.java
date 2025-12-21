@@ -1,0 +1,26 @@
+class Unary
+{
+	public static void main(String[] args)
+	{
+		int a=5;
+		
+		System.out.println("INITIAL VALES:" + a);
+		a++;
+		System.out.println("AFTER A++:" + a);
+		++a;
+		System.out.println("AFTER ++A:" + a);
+		a--;
+		System.out.println("AFTER A--:" + a);
+		--a;
+		System.out.println("AFTER --A:" + a);
+		
+		
+		
+		
+		
+	}	
+	
+	
+	
+	
+}
